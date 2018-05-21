@@ -2,9 +2,10 @@ package com;
 
 import javax.swing.*;
 import java.awt.*;
+
 // Класс содержащий изображение кнопок
 public class FieldManagement {
-    JButton resetButton,right,left,up,down;
+    JButton resetButton, right, left, up, down;
 
 
     public JButton turnRight() {

@@ -113,7 +113,7 @@ public class Draw extends JPanel implements MouseListener {
         this.repaint();
     }
 
-    public void  buttonUp() {
+    public void buttonUp() {
         if (startY > 0)
             startY--;
         else

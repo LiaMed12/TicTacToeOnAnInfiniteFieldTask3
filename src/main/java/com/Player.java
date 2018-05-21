@@ -12,7 +12,7 @@ public enum Player {
     Image image;
 
     public Image getImage() {
-        return image;
+        return image; 
     }
 
     Player(String resources) {
